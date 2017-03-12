@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="SaravanaJ.HideLightbulbMargin.1da61a4a-9511-4c7b-af66-a3163443e5bd" Version="1.0" Language="en-US" Publisher="Saravana J" />
+    <Identity Id="SaravanaJ.HideLightbulbMargin.1da61a4a-9511-4c7b-af66-a3163443e5bd" Version="1.0" Language="en-US" Publisher="saravanaj" />
     <DisplayName>Hide Lightbulb Margin</DisplayName>
-    <Description xml:space="preserve">Hides the margin with the "LightBulb" icon.</Description>
+    <Description xml:space="preserve">Hides the margin with the "lightbulb" icon.</Description>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,16.0)" />
