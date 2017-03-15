@@ -1,5 +1,5 @@
 # Hide Lightbulb Margin
-A Visual Studio 2015/2015 addon that hides the editor margin that shows the "lightbulb" icon which reminds me of clippy.
+A Visual Studio 2015/2017 addon that hides the editor margin that shows the "lightbulb" icon which reminds me of clippy.
 
 ## Screenshots
 ### Before
